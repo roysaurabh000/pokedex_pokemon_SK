@@ -1,3 +1,12 @@
+1. Allow users to create an account and log in (using any backend technology)
+2.  2. A list page of all pokemon detail page, showing a user all the pokemon goodness: 
+3. Image of the pokemon [hint: this can be found in one of the API responses, look for sprite information] 
+4. A description  of the pokemon.
+5. Choose some of it's characteristics like: Stats, Abilities, Movements. 
+6. An option to search from the list page, where we can search for different pokemons and show the result 
+#Used React
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
