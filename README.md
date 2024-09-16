@@ -7,10 +7,11 @@
 #Used React
 
 ![image](https://github.com/user-attachments/assets/772b3bdc-4bec-45e0-a26f-f9633ba81f52)
-![image](https://github.com/user-attachments/assets/cfbf714d-38e4-4d2e-b203-eff5996954d8)
+
 
 ![image](https://github.com/user-attachments/assets/758ab96c-0dc2-46a6-bd1f-91516b518edc)
 
+![image](https://github.com/user-attachments/assets/cfbf714d-38e4-4d2e-b203-eff5996954d8)
 
 ## Available Scripts
 
@@ -21,8 +22,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+
 
 ### `npm test`
 
@@ -37,16 +37,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+*Note: this is a one-way operation. Once you `eject`, you can’t go back!**
